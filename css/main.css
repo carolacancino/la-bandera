@@ -4,6 +4,10 @@
     background: yellow;
     margin-bottom: 10px;
     padding: 10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-right: 15px;
+
 }
 
 .caja2{
@@ -12,6 +16,9 @@
     background-color: #FF0033;
     margin-bottom: 10px;
     padding: 10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-right: 15px;
 }
 
 .caja3{
@@ -20,4 +27,7 @@
     background: yellow;
     margin-bottom: 10px;
     padding: 10px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-right: 15px;
 }
